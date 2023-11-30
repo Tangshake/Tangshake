@@ -47,7 +47,8 @@
 
 
 ### Testing tools  
-<div align="center">  
+<div align="center">
+<a href="https://www.postman.com" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" height="50" /></a>  
 <a href="https://www.chaijs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" /></a>  
 </div>  
 
