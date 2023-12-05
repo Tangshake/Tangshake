@@ -5,7 +5,7 @@
   
 
 ### <div align="center">I'm Adam, software tester and developer from Poland</div>  
-  
+</br></br>  
 
 - 💪 Project based on Microservices https://github.com/Tangshake/NutritionApp
 - 📱 Commerical projects: https://householdspirits.com
