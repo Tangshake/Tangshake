@@ -23,7 +23,7 @@
 <a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="40" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="40" /></a>  
 <a href="https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui?view=net-maui-8.0" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/MahmudX/awesome-maui/main/dotnet_bot.svg" alt="MAUI" height="40" /></a>  
-<a href="https://docs.microsoft.com" target="_blank"><img style="margin: 10px" src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" alt="Blazor" height="40" /></a>  
+<a href="https://[docs.microsoft.com](https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor)" target="_blank"><img style="margin: 10px" src="https://devblogs.microsoft.com/aspnet/wp-content/uploads/sites/16/2019/04/BrandBlazor_nohalo_1000x.png" alt="Blazor" height="40" /></a>  
 </div>
 
 </td><td valign="top" width="15%">
