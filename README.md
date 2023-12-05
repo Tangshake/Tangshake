@@ -48,7 +48,7 @@
 <div align="center">
 <a href="https://www.swagger.io/" target="_blank"><img style="margin: 10px" src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" alt="Swagger" height="40" /></a>
 <a href="https://www.postman.com" target="_blank"><img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" height="40" /></a>  
-<a href="https://www.chaijs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="40" /></a>  
+<!-- <a href="https://www.chaijs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="40" /></a>  -->
   
 </div>  
 
