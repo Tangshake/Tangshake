@@ -7,9 +7,9 @@
 ### <div align="center">I'm Adam, software tester and developer from Poland</div>  
 </br></br>  
 
-- 💪 Project based on Microservices https://github.com/Tangshake/NutritionApp
+- 💪 Project based on Microservices [Github link](https://github.com/Tangshake/NutritionApp)
 - 📱 Commerical projects: https://householdspirits.com
-- ⚙ I’m currently working on MemoryGame (basic authentication, JWT + Refresh Token, SignalR)
+- ⚙ I’m currently working on MemoryGame (basic authentication, JWT + Refresh Token, SignalR) [Github link](https://githubTangshake/MemoryGame)
 - 🌱 I’m currently trying to brush on my skills with .Net 8.0, .Net Maui Blazor, SignalR  
   
 
