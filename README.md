@@ -4,7 +4,7 @@
 </div>  
   
 
-### <div align="center">I'm Adam, software tester and developer from Poland</div>  
+### <div align="center">👋  I'm Adam, software tester and developer from Poland</div>  
 </br></br>  
 
 - 💪 Project based on Microservices [Github link](https://github.com/Tangshake/NutritionApp)
