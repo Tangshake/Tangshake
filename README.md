@@ -9,7 +9,7 @@
 
 - 💪 Project based on Microservices [Github link](https://github.com/Tangshake/NutritionApp)
 - 📱 Commerical projects: https://householdspirits.com
-- ⚙ I’m currently working on MemoryGame (basic authentication, JWT + Refresh Token, SignalR) [Github link](https://githubTangshake/MemoryGame)
+- ⚙ I’m currently working on MemoryGame (basic authentication, JWT + Refresh Token, SignalR) [Github link](https://github.com/Tangshake/MemoryGame)
 - 🌱 I’m currently trying to brush on my skills with .Net 8.0, .Net Maui Blazor, SignalR  
   
 
